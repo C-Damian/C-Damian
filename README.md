@@ -1,5 +1,4 @@
 -  Hi, I’m @C-Damian
--  I’m interested in things that make me think and sharing knowledge:).
 -  I’m currently learning Python and C...
 
 
