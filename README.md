@@ -1,5 +1,4 @@
 -  Hi, I’m @C-Damian
--  I’m currently learning Python and C...
 
 
 <!---
