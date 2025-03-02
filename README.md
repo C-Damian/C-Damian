@@ -1,6 +1,5 @@
 -  Hi, I’m Damian!
--  
-Site Under Construction: https://c-damian.github.io/C-Damian/
+-  Site Under Construction: https://c-damian.github.io/C-Damian/
 
 <!---
 C-Damian/C-Damian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
