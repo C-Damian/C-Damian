@@ -1,10 +1,23 @@
 body{
-    background-color: #1c1c21;
+
+    /* diameter of the circle */
+   --d: 3px; 
+   background : rgb(18, 18, 18) radial-gradient(
+     circle at 
+        var(--d) 
+        var(--d), 
+        
+     #343437 calc(var(--d) - 1px), 
+     #0000 var(--d)
+   ) 
+   0 0 / 45px 45px;
+    /* background-color: #1c1c21;
     color:#555;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 16px;
     line: height 1.6em;
-    margin:0;
+    margin:0;*/
+    
 }    
 
 header{
@@ -19,16 +32,16 @@ header{
 }  
 
 #main-header{
-    background-color: #1c1c21;
+    background-color: transparent;
     color: #fff;
 }
 
 #navbar{
-    background-color: #282830;
+    background-color: #171718;
     color: transparent;
     border-radius: 30px;
     margin: 0px 30px 0px 30px;
-    box-shadow: 0 0 2.5px #fff, 0 0 5px #fff, 0 0 15px #fff; /* Glow effect */
+    box-shadow: 0 0 2px #fff, 0 0 4px #fff, 0 0 8px #fff; /* Glow effect */
     padding: 2px;
     color: white; /* Optional for readability */
 }
@@ -69,6 +82,7 @@ header{
     width: 70%;
     padding: 0 30px;
     box-sizing: border-box;
+    color: #fff;
 }
 
 #sidebar{
