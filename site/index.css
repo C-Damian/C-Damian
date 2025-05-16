@@ -10,7 +10,7 @@ body{
      #3a3a3b calc(var(--d) - 1px), 
      #0000 var(--d)
    ) 
-   0 0 / 45.2px 45.2px;
+   0 0 / 45px 45px;
     margin: 0;
     font-family: "Montserrat", sans-serif;
     background-color: #1c1c21;
