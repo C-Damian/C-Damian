@@ -9,7 +9,7 @@ export const AboutSection = () => {
       <h2 className=" text-3xl md:text-4xl font-bold mb:12 text-center">
         About <span className="text-primary"> Me</span>
       </h2>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mt-6">
         <div className="space-y-6">
           <h3 className="text-2xl font-semibold">Passionate Backend Developer and UAT tester</h3>
 
@@ -22,7 +22,7 @@ export const AboutSection = () => {
             <a href="#contact" className="cosmic-button">
               Get In Touch
             </a>
-            <a href="#cvlink" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/15 transition-colors duration-300">
+            <a target="_blank" href="https://www.google.com" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/15 transition-colors duration-300">
               Download CV <LucideCircleArrowDown className="inline pb-1" />
             </a>
           </div>
