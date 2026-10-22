@@ -28,7 +28,9 @@ Online registration with legal e-signatures, auto-generated signed PDFs, automat
 ### Tools
 
 **Automation & AI:** Python, JavaScript/TypeScript, n8n, Zapier, Make, REST APIs, Claude API, Claude Code
+
 **Web & cloud:** React, Supabase (Postgres), AWS (Lambda, EC2, IAM, S3), Cloudflare, Terraform, GitHub Actions
+
 **QA & compliance:** QC and regression testing, UAT, SOC compliance, ITIL 4
 
 **Certifications:** CompTIA Security+, Network+, A+ · AWS Cloud Practitioner · ITIL 4 · Linux Essentials

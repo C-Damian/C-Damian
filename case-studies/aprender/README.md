@@ -1,8 +1,8 @@
 # Case study: a driving school goes from paper and Excel to a real system
 
-**Client:** CEA Aprender, a driving school in Santander, Colombia
-**Role:** Sole builder: scoping, design, development, testing and handoff
-**Stack:** React + TypeScript (Vite), Supabase (Postgres, Auth, Storage, Edge Functions), Cloudflare, Resend
+**Client:** CEA Aprender, a driving school in Santander, Colombia  
+**Role:** Sole builder: scoping, design, development, testing and handoff  
+**Stack:** React + TypeScript (Vite), Supabase (Postgres, Auth, Storage, Edge Functions), Cloudflare, Resend  
 **Live site:** [aprenderenseñanza.com](https://xn--aprenderenseanza-iub.com)
 
 > The source code is private (it belongs to the client). This page shows what was built and how.
